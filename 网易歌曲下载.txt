@@ -1,0 +1,14 @@
+网易云音乐付费歌曲的免费下载方式
+原创杭城何生 最后发布于2019-07-19 21:11:44 阅读数 3459  收藏
+展开
+进入网易云音乐在线网站：https://music.163.com
+
+搜索自己要的歌曲，进入播放页，观察网址链接
+
+例如：bbbluelee的《ｃｏｎｖｅｒｓａｔｉｏｎ》
+
+网易在线播放链接是：https://music.163.com/#/song?id=1364001635
+
+mp3下载链接替换成：http://music.163.com/song/media/outer/url?id=1364001635.mp3
+
+http://music.163.com/song/media/outer/url?id=569213220.mp3
